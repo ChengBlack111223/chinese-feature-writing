@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文长文写作"
+  short_description: "按题材与材料创作或改写中文长文；实质小标题；兼顾报道严谨与点评温度"
+  default_prompt: "请使用 $chinese-feature-writing，根据我的题目和材料创作或改写一篇中文长文，让每节都有实质小标题，事实与判断可区分，并保持自然的叙述与观点推进。"
